@@ -1,0 +1,212 @@
+[
+    {
+      "title": "Web Development",
+      "description": "Learn to build stunning websites with HTML, CSS, and JavaScript.",
+      "image": "./Assets/web dev.webp"
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "Create stunning mobile applications using Flutter and React Native.",
+      "image": "./Assets/mobile application.webp"
+    },
+    {
+      "title": "Python Programming",
+      "description": "Master Python for data science, web development, and more.",
+      "image": "./Assets/python programming.webp"
+    },
+    {
+      "title": "Data Science",
+      "description": "Learn data analysis, machine learning, and visualization with Python.",
+      "image": "./Assets/data-science.jpg"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Design beautiful and user-friendly interfaces for web and mobile apps.",
+      "image": "./Assets/ui-ux-design.jpg"
+    },
+    {
+      "title": "Cloud Computing",
+      "description": "Learn to deploy and manage applications on AWS, Azure, and Google Cloud.",
+      "image": "./Assets/cloud-computing.jpg"
+    },
+    {
+      "title": "JavaScript Fundamentals",
+      "description": "Master the basics of JavaScript for web development.",
+      "image": "./Assets/javascript.jpg"
+    },
+    {
+      "title": "React.js for Beginners",
+      "description": "Learn to build dynamic web applications with React.js.",
+      "image": "./Assets/reactjs.jpg"
+    },
+    {
+      "title": "Node.js Backend Development",
+      "description": "Build scalable backend applications with Node.js.",
+      "image": "./Assets/nodejs.jpg"
+    },
+    {
+      "title": "Machine Learning with Python",
+      "description": "Learn the fundamentals of machine learning using Python.",
+      "image": "./Assets/machine-learning.jpg"
+    },
+    {
+      "title": "DevOps Essentials",
+      "description": "Learn the principles of DevOps and CI/CD pipelines.",
+      "image": "./Assets/devops.jpg"
+    },
+    {
+      "title": "Cybersecurity Basics",
+      "description": "Understand the fundamentals of cybersecurity and best practices.",
+      "image": "./Assets/cybersecurity.jpg"
+    },
+    {
+      "title": "Blockchain Development",
+      "description": "Learn to build decentralized applications using blockchain technology.",
+      "image": "./Assets/blockchain.jpg"
+    },
+    {
+      "title": "Game Development with Unity",
+      "description": "Create interactive games using Unity and C#.",
+      "image": "./Assets/unity.jpg"
+    },
+    {
+      "title": "Full-Stack Development",
+      "description": "Become a full-stack developer by mastering both frontend and backend technologies.",
+      "image": "./Assets/fullstack.jpg"
+    },
+    {
+      "title": "Advanced CSS Techniques",
+      "description": "Learn advanced CSS techniques for modern web design.",
+      "image": "./Assets/css.jpg"
+    },
+    {
+      "title": "Angular Framework",
+      "description": "Build dynamic web applications using Angular.",
+      "image": "./Assets/angular.jpg"
+    },
+    {
+      "title": "Vue.js Fundamentals",
+      "description": "Learn the basics of Vue.js for building user interfaces.",
+      "image": "./Assets/vuejs.jpg"
+    },
+    {
+      "title": "Django Web Development",
+      "description": "Build web applications using the Django framework.",
+      "image": "./Assets/django.jpg"
+    },
+    {
+      "title": "Flask for Beginners",
+      "description": "Learn to build lightweight web applications with Flask.",
+      "image": "./Assets/flask.jpg"
+    },
+    {
+      "title": "Ruby on Rails",
+      "description": "Build web applications using the Ruby on Rails framework.",
+      "image": "./Assets/ruby-on-rails.jpg"
+    },
+    {
+      "title": "SQL for Data Analysis",
+      "description": "Learn SQL for querying and analyzing databases.",
+      "image": "./Assets/sql.jpg"
+    },
+    {
+      "title": "MongoDB Essentials",
+      "description": "Learn to work with MongoDB, a NoSQL database.",
+      "image": "./Assets/mongodb.jpg"
+    },
+    {
+      "title": "GraphQL Fundamentals",
+      "description": "Learn to build APIs using GraphQL.",
+      "image": "./Assets/graphql.jpg"
+    },
+    {
+      "title": "REST API Development",
+      "description": "Learn to build RESTful APIs for web applications.",
+      "image": "./Assets/rest-api.jpg"
+    },
+    {
+      "title": "Docker for Developers",
+      "description": "Learn to containerize applications using Docker.",
+      "image": "./Assets/docker.jpg"
+    },
+    {
+      "title": "Kubernetes Essentials",
+      "description": "Learn to orchestrate containerized applications with Kubernetes.",
+      "image": "./Assets/kubernetes.jpg"
+    },
+    {
+      "title": "AWS Cloud Practitioner",
+      "description": "Learn the basics of AWS cloud services.",
+      "image": "./Assets/aws.jpg"
+    },
+    {
+      "title": "Azure Fundamentals",
+      "description": "Learn the basics of Microsoft Azure cloud services.",
+      "image": "./Assets/azure.jpg"
+    },
+    {
+      "title": "Google Cloud Basics",
+      "description": "Learn the basics of Google Cloud Platform.",
+      "image": "./Assets/google-cloud.jpg"
+    },
+    {
+      "title": "Linux Command Line",
+      "description": "Master the Linux command line for system administration.",
+      "image": "./Assets/linux.jpg"
+    },
+    {
+      "title": "Bash Scripting",
+      "description": "Learn to write Bash scripts for automation.",
+      "image": "./Assets/bash.jpg"
+    },
+    {
+      "title": "Git and GitHub",
+      "description": "Learn version control with Git and GitHub.",
+      "image": "./Assets/git.jpg"
+    },
+    {
+      "title": "Agile Methodology",
+      "description": "Learn the principles of Agile project management.",
+      "image": "./Assets/agile.jpg"
+    },
+    {
+      "title": "Scrum Framework",
+      "description": "Learn to manage projects using the Scrum framework.",
+      "image": "./Assets/scrum.jpg"
+    },
+    {
+      "title": "Product Management",
+      "description": "Learn the fundamentals of product management.",
+      "image": "./Assets/product-management.jpg"
+    },
+    {
+      "title": "Digital Marketing",
+      "description": "Learn the basics of digital marketing strategies.",
+      "image": "./Assets/digital-marketing.jpg"
+    },
+    {
+      "title": "SEO Fundamentals",
+      "description": "Learn search engine optimization techniques.",
+      "image": "./Assets/seo.jpg"
+    },
+    {
+      "title": "Content Writing",
+      "description": "Learn to write engaging and effective content.",
+      "image": "./Assets/content-writing.jpg"
+    },
+    {
+      "title": "Video Editing",
+      "description": "Learn video editing techniques using professional tools.",
+      "image": "./Assets/video-editing.jpg"
+    },
+    {
+      "title": "Graphic Design",
+      "description": "Learn the basics of graphic design and visual communication.",
+      "image": "./Assets/graphic-design.jpg"
+    },
+    {
+      "title": "3D Modeling",
+      "description": "Learn to create 3D models for games and animations.",
+      "image": "./Assets/3d-modeling.jpg"
+    }
+  ]

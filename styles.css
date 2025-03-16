@@ -139,7 +139,7 @@ header {
 
 .team-card img {
   height: 250px;
-  object-fit: cover;
+  object-fit:scale-down;
 }
 
 .team-card h5 {
@@ -271,4 +271,17 @@ footer a:hover {
 
 .course-card p {
   color: #e0e0e0;
+}
+
+/* Load More Button */
+#loadMoreButton {
+  background-color: #00bcd4;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+#loadMoreButton:hover {
+  background-color: #008ba3;
 }
