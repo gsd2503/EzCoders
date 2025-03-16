@@ -1,0 +1,274 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar {
+  background-color: #1e1e1e;
+  width: 100%;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #e0e0e0;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #00bcd4;
+}
+
+.navbar-brand:hover,
+.nav-link:focus {
+  color: #00bcd4;
+}
+
+.navbar-brand:visited {
+  color: white;
+}
+
+.hero-section {
+  background-color: #1e1e1e;
+  padding: 12rem 0;
+  text-align: center;
+  background-image: url("./Assets/back.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.hero-section h1 {
+  background-color: white;
+  display: inline-block;
+  color: #00bcd4;
+  padding: 5px 25px;
+  border-radius: 40px;
+}
+
+.scrolling-text {
+  white-space: nowrap;
+  overflow: hidden;
+  position: relative;
+  background-color: #000000;
+  color: #00bcd4;
+  padding: 0.5rem;
+  height: 100px;
+}
+
+.scrolling-text span {
+  display: inline-block;
+  position: absolute;
+  animation: scroll-left 15s linear infinite;
+  font-size: 2rem;
+  line-height: 80px;
+  white-space: nowrap;
+}
+
+@keyframes scroll-left {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.card {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  border: none;
+}
+
+.course-card img {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.course-card:hover {
+  box-shadow: 0 0px 8px rgba(0, 213, 255, 0.564);
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+}
+
+.feature-card:hover {
+  transform: translateY(-10px);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 188, 212, 0.3);
+}
+
+.btn-primary {
+  background-color: #00bcd4;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #008ba3;
+}
+
+.btn-secondary {
+  background-color: #616161;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #757575;
+}
+
+#about {
+  background-color: #1e1e1e;
+  padding: 4rem 0;
+}
+
+.team-card {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgba(0, 188, 212, 0.3);
+}
+
+.team-card img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.team-card h5 {
+  color: #00bcd4;
+}
+
+.team-card p {
+  color: #e0e0e0;
+}
+
+.modal-content {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.modal-header {
+  border-bottom: 1px solid #444;
+}
+
+.modal-title {
+  color: #00bcd4;
+}
+
+.modal-body input,
+.modal-body textarea {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.modal-body input:focus,
+.modal-body textarea:focus {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border-color: #00bcd4;
+  box-shadow: 0 0 5px rgba(0, 188, 212, 0.5);
+}
+
+.modal-body label {
+  color: #e0e0e0;
+}
+
+.btn-close {
+  filter: invert(1);
+}
+
+footer {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+  padding: 1rem;
+}
+
+footer a {
+  color: #00bcd4;
+}
+
+footer a:hover {
+  color: #008ba3;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  z-index: 1000;
+}
+
+
+/* Courses Page */
+
+/* Search Bar */
+.search-bar {
+  background-color: #1e1e1e;
+  padding: 4rem 0;
+}
+
+.search-bar h2 {
+  color: #00bcd4;
+}
+
+.search-bar .form-control {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.search-bar .form-control:focus {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border-color: #00bcd4;
+  box-shadow: 0 0 5px rgba(0, 188, 212, 0.5);
+}
+
+.search-bar .btn-primary {
+  background-color: #00bcd4;
+  border: none;
+}
+
+.search-bar .btn-primary:hover {
+  background-color: #008ba3;
+}
+
+/* Courses List */
+.courses-list {
+  background-color: #121212;
+}
+
+.course-card {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgba(0, 188, 212, 0.3);
+}
+
+.course-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.course-card h5 {
+  color: #00bcd4;
+}
+
+.course-card p {
+  color: #e0e0e0;
+}
